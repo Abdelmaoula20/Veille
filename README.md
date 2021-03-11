@@ -6,7 +6,7 @@ La réalité virtuelle (RV) est un environnement généré par la technologie in
 
 Les systèmes de réalité virtuelle typiques se _composent_ principalement d'un casque stéréoscopique qui fournit à l'utilisateur l'environnement virtuel visuel et auditif, et de contrôleurs qui permettent à l'utilisateur d'interagir avec des objets dans l'environnement virtuel. Sur cette diapositive, nous pouvons voir un ensemble de réalité **virtuelle** typique, un HTC Vive, et un utilisateur qui l'utilise.
 
-
-Overfitting (fort biais):
+**
+Overfitting (fort biais):**
 Il survient lorsque notre m
 
