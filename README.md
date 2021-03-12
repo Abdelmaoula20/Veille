@@ -10,3 +10,6 @@ Les systèmes de réalité virtuelle typiques se _composent_ principalement d'un
 Overfitting (fort biais):**
 Il survient lorsque notre m
 
+
+<img width="378" alt="tw1" src="https://user-images.githubusercontent.com/60924309/110942247-d97aa480-8339-11eb-9ff3-df58de542ba8.png">
+
